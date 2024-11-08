@@ -1,0 +1,15 @@
+Adresse l ; b
+1; 8.63342; 49.8721; Goebelstraße; 11; 64293; Darmstadt-Nord, Deutschland
+2; 8.56174; 49.8602; Wilhelm-Leuschner-Straße; 51; 64347; Griesheim, Deutschland
+3; 8.47896; 49.834; Feldweg-Straße; 23; 64560; Riedstadt, Deutschland
+4; 8.67052; 49.7891; Frankensteiner Weg; 23; 64367; Nieder-Beerbach, Deutschland
+5; 9.33218; 48.7773; Hirtenstraße; 2; 71394;  Kernen im Remstal, Deutschland
+6; 8.74325; 49.8611; Spessartring; 29; 64380; Roßdorf, Deutschland
+12; 8.22321; 45.1223; MieneStrasse; 12; 23453; BeiMir
+Pol
+7; 8.63342; 49.8724; Kinopolis Darmstadt; Beste Kino in Darmstadt
+8; 8.68028; 50.1145; Galeria, Zeil 116-126; Galeria in Frankfurt
+9; 7.41273; 51.4944; Technische Universität Dortmund; Einer der besten Universität
+10; 9.74038; 52.3654; Niedersächsisches Landesmuseum; Museum
+11; 8.6523; 49.8713; Zara, Schuchardstraße; Zara
+13; 7.34432; 56.8798; Restaurant; tzr

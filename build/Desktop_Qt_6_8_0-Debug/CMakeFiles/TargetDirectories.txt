@@ -1,0 +1,7 @@
+/home/garcia-lontsi-tadzotsa/Praktikum02_01/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/Praktikum02_01.dir
+/home/garcia-lontsi-tadzotsa/Praktikum02_01/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/edit_cache.dir
+/home/garcia-lontsi-tadzotsa/Praktikum02_01/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/garcia-lontsi-tadzotsa/Praktikum02_01/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/list_install_components.dir
+/home/garcia-lontsi-tadzotsa/Praktikum02_01/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install.dir
+/home/garcia-lontsi-tadzotsa/Praktikum02_01/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install/local.dir
+/home/garcia-lontsi-tadzotsa/Praktikum02_01/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install/strip.dir
